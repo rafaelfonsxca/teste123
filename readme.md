@@ -1,1 +1,3 @@
-# qualquer coisa
+# Sobre mim
+
+Aprendendo git e github.
